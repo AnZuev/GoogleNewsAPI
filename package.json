@@ -9,6 +9,7 @@
   "keywords": [
     "google-news"
   ],
+  "repository": "https://github.com/AnZuev/GoogleNewsAPI",
   "author": "AnZuev (anzuev@bk.ru)",
   "license": "ISC",
   "dependencies": {
