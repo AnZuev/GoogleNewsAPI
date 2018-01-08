@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://newsapi.org/v2/",
+  "categories": [
+    "business", "entertainment", "gaming",
+    "general", "health-and-medical", "music",
+    "politics", "science-and-nature", "sport", "technology"
+  ],
+  "languages":[
+    "ar", "en", "cn", "de", "es", "fr", "he", "it", "nl", "no", "pt", "ru", "sv", "ud"
+  ],
+  "countries":[
+    "ar", "au", "br", "ca", "cn", "de", "es", "fr",
+    "gb", "hk", "ie", "in", "is", "it", "nl", "no",
+    "pk", "ru", "sa", "sv", "us", "za"
+  ],
+  "types":["sources", "top-headlines", "everything"]
+}
